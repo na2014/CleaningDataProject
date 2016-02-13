@@ -4,6 +4,7 @@ This is my project for the Getting and Cleaning Data Course.  In this folder you
 * run_analysis.R
 * tidyData.txt
 
+The script can be run using `source("run_analysis.R")`.
 
 The file "tidyData.txt" can be loaded using the command `read.table("tidyData.txt", header = TRUE)`
 
