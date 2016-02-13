@@ -6,9 +6,9 @@ This is my project for the Getting and Cleaning Data Course.  In this folder you
 
 
 The file "tidyData.txt" can be loaded using the command
->>
+>
   read.table("tidyData.txt", header = TRUE)
->>
+>
 
 # Criteria for grading
 * The submitted data set is tidy.
